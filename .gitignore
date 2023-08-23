@@ -1,0 +1,4 @@
+__pycache__/
+/src/**
+/latent_diffusion.egg-info/**
+/models/ldm/text2img-large/*.ckpt
